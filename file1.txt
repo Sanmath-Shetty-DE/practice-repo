@@ -1,2 +1,3 @@
 The line1 is added to file1
 The line2 is added to file1
+The line3 is added to file1
